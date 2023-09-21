@@ -1,6 +1,6 @@
 package ConversorMedida;
 
-import ConversorMoneda.ConvertirMoneda;
+
 
 import javax.swing.JOptionPane;
 
