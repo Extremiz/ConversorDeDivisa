@@ -5,3 +5,4 @@ El reto consistia en crear una aplicacion que tuviera la funcionalidad de conver
 <h2 align="center">Conclusion</h2>
 Este proyecto me permitió varios de los conocimientos y habilidades nuevas aprendida durante las distintas clases y temas. Espero en el futuro volver para poder modificar mejorar la aplicacion a nivel de diseño.
 Gracias Alura Latam por la oportunidad de participar de este challenge.
+![insignia por completar el challenge](https://github.com/Extremiz/ConversorDeDivisa/assets/86448249/ceb403f8-e5d6-4251-9381-f618e27fd3d0)
